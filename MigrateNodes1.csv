@@ -1,0 +1,197 @@
+Country,Region,Color
+Canada,North America,Yellow
+United States,North America,Yellow
+Angola,Africa,Green
+Burundi,Africa,Green
+Benin,Africa,Green
+Burkina Faso,Africa,Green
+Botswana,Africa,Green
+Central African Republic,Africa,Green
+Ivory Coast,Africa,Green
+Cameroon,Africa,Green
+DR Congo,Africa,Green
+Congo,Africa,Green
+Comoros,Africa,Green
+Cape Verde,Africa,Green
+Djibouti,Africa,Green
+Algeria,Africa,Green
+Egypt,Africa,Green
+Eritrea,Africa,Green
+Western Sahara,Africa,Green
+Ethiopia,Africa,Green
+Gabon,Africa,Green
+Ghana,Africa,Green
+Guinea,Africa,Green
+Gambia,Africa,Green
+Guinea-Bissau,Africa,Green
+Equatorial Guinea,Africa,Green
+Kenya,Africa,Green
+Liberia,Africa,Green
+Libya,Africa,Green
+Lesotho,Africa,Green
+Morocco,Africa,Green
+Madagascar,Africa,Green
+Mali,Africa,Green
+Mozambique,Africa,Green
+Mauritania,Africa,Green
+Mauritius,Africa,Green
+Malawi,Africa,Green
+Mayotte,Africa,Green
+Namibia,Africa,Green
+Niger,Africa,Green
+Nigeria,Africa,Green
+Reunion,Africa,Green
+Rwanda,Africa,Green
+Sudan,Africa,Green
+Senegal,Africa,Green
+Sierra Leone,Africa,Green
+Somalia,Africa,Green
+South Sudan,Africa,Green
+Sao Tome & Principe,Africa,Green
+Swaziland,Africa,Green
+Chad,Africa,Green
+Togo,Africa,Green
+Tunisia,Africa,Green
+Tanzania,Africa,Green
+Uganda,Africa,Green
+South Africa,Africa,Green
+Zambia,Africa,Green
+Zimbabwe,Africa,Green
+Albania,Europe,Red
+Austria,Europe,Red
+Belgium,Europe,Red
+Bulgaria,Europe,Red
+Bosnia & Herzegovina,Europe,Red
+Switzerland,Europe,Red
+Channel Islands,Europe,Red
+Czech Republic,Europe,Red
+Germany,Europe,Red
+Denmark,Europe,Red
+Spain,Europe,Red
+Finland,Europe,Red
+France,Europe,Red
+United Kingdom,Europe,Red
+Greece,Europe,Red
+Croatia,Europe,Red
+Hungary,Europe,Red
+Ireland,Europe,Red
+Iceland,Europe,Red
+Italy,Europe,Red
+Luxembourg,Europe,Red
+Macedonia,Europe,Red
+Malta,Europe,Red
+Montenegro,Europe,Red
+Netherlands,Europe,Red
+Norway,Europe,Red
+Poland,Europe,Red
+Portugal,Europe,Red
+Romania,Europe,Red
+Serbia,Europe,Red
+Slovakia,Europe,Red
+Slovenia,Europe,Red
+Sweden,Europe,Red
+Armenia,Fmr Soviet Union,Purple
+Azerbaijan,Fmr Soviet Union,Purple
+Belarus,Fmr Soviet Union,Purple
+Estonia,Fmr Soviet Union,Purple
+Georgia,Fmr Soviet Union,Purple
+Kazakhstan,Fmr Soviet Union,Purple
+Kyrgyzstan,Fmr Soviet Union,Purple
+Lithuania,Fmr Soviet Union,Purple
+Latvia,Fmr Soviet Union,Purple
+Moldova,Fmr Soviet Union,Purple
+Russia,Fmr Soviet Union,Purple
+Tajikistan,Fmr Soviet Union,Purple
+Turkmenistan,Fmr Soviet Union,Purple
+Ukraine,Fmr Soviet Union,Purple
+Uzbekistan,Fmr Soviet Union,Purple
+United Arab Emirates,West Asia,Brown
+Bahrain,West Asia,Brown
+Cyprus,West Asia,Brown
+Iraq,West Asia,Brown
+Israel,West Asia,Brown
+Jordan,West Asia,Brown
+Kuwait,West Asia,Brown
+Lebanon,West Asia,Brown
+Oman,West Asia,Brown
+Palestine,West Asia,Brown
+Qatar,West Asia,Brown
+Saudi Arabia,West Asia,Brown
+Syria,West Asia,Brown
+Turkey,West Asia,Brown
+Yemen,West Asia,Brown
+Afghanistan,South Asia,Purple
+Bangladesh,South Asia,Purple
+Bhutan,South Asia,Purple
+India,South Asia,Purple
+Iran,South Asia,Purple
+Sri Lanka,South Asia,Purple
+Maldives,South Asia,Purple
+Nepal,South Asia,Purple
+Pakistan,South Asia,Purple
+China,East Asia,Blue
+Hong Kong,East Asia,Blue
+Japan,East Asia,Blue
+South Korea,East Asia,Blue
+Macao,East Asia,Blue
+Mongolia,East Asia,Blue
+North Korea,East Asia,Blue
+Brunei,South-East Asia,Grey
+Indonesia,South-East Asia,Grey
+Cambodia,South-East Asia,Grey
+Laos,South-East Asia,Grey
+Myanmar,South-East Asia,Grey
+Malaysia,South-East Asia,Grey
+Philippines,South-East Asia,Grey
+Singapore,South-East Asia,Grey
+Thailand,South-East Asia,Grey
+Timor-Leste,South-East Asia,Grey
+Vietnam,South-East Asia,Grey
+Australia,Oceania,Pink
+Fiji,Oceania,Pink
+Micronesia,Oceania,Pink
+Guam,Oceania,Pink
+New Caledonia,Oceania,Pink
+New Zealand,Oceania,Pink
+Papua New Guinea,Oceania,Pink
+French Polynesia,Oceania,Pink
+Solomon Islands,Oceania,Pink
+Tonga,Oceania,Pink
+Vanuatu,Oceania,Pink
+Samoa,Oceania,Pink
+Aruba,Latin America,Orange
+Argentina,Latin America,Orange
+Bahamas,Latin America,Orange
+Belize,Latin America,Orange
+Bolivia,Latin America,Orange
+Brazil,Latin America,Orange
+Barbados,Latin America,Orange
+Chile,Latin America,Orange
+Colombia,Latin America,Orange
+Costa Rica,Latin America,Orange
+Cuba,Latin America,Orange
+Dominican Republic,Latin America,Orange
+Ecuador,Latin America,Orange
+Guadeloupe,Latin America,Orange
+Grenada,Latin America,Orange
+Guatemala,Latin America,Orange
+French Guiana,Latin America,Orange
+Guyana,Latin America,Orange
+Honduras,Latin America,Orange
+Haiti,Latin America,Orange
+Jamaica,Latin America,Orange
+Saint Lucia,Latin America,Orange
+Mexico,Latin America,Orange
+Martinique,Latin America,Orange
+Nicaragua,Latin America,Orange
+Panama,Latin America,Orange
+Peru,Latin America,Orange
+Puerto Rico,Latin America,Orange
+Paraguay,Latin America,Orange
+El Salvador,Latin America,Orange
+Suriname,Latin America,Orange
+Trinidad & Tobago,Latin America,Orange
+Uruguay,Latin America,Orange
+Saint Vincent & Grenadines,Latin America,Orange
+Venezuela,Latin America,Orange
+Virgin Islands,Latin America,Orange
